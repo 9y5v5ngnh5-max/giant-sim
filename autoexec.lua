@@ -1,7 +1,8 @@
--- All Roblox Utilities (autoexec)
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NoTwistedHere/Roblox/main/AntiAFK.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NoTwistedHere/Roblox/main/FunctionDump.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NoTwistedHere/Roblox/main/FormatTable. lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NoTwistedHere/Roblox/main/AssetRipper. lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NoTwistedHere/Roblox/main/RemoteSpy.lua"))()
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NoTwistedHere/Roblox/main/ScriptDumper.lua"))()
